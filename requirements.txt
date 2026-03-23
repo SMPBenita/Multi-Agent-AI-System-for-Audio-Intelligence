@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+transformers
+torch
+torchaudio
+librosa
+soundfile
+pydantic
+python-multipart
+keybert
+scikit-learn
+nltk
